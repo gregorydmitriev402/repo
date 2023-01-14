@@ -1,0 +1,23 @@
+<package>
+	<id>com.gregorydmitriev.newicons</id>
+	<name>New Icons</name>
+	<version>1.0-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>10.3.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Icons from newer iOS versions for iOS 10.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

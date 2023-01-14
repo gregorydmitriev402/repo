@@ -1,14 +1,13 @@
-Package: 
-Version: 
-Section: 
-Maintainer: 
-Depends: 
-Architecture: 
-Filename: 
-Size: 
-MD5sum: 
-Description: 
-Name: 
-Author:
-Depiction: 
+Package: com.gregorydmitriev.newicons
+Version: 1.0
+Maintainer: Gregory Dmitriev
+Depends: firmware (>= 10.3.4)
+Architecture: iphoneos-arm
+Filename: ./debs/com.gregorydmitriev.newicons
+Size: 798620
+MD5sum: b20949a5a5d4454c1ede7b6a3a77db05
+Description: Icons from newer iOS versions for iOS 10.
+Name: New Icons
+Author: Gregory Dmitriev
+Depiction: ./depictions/com.gregorydmitriev.newicons
 
