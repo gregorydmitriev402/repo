@@ -1,0 +1,9 @@
+Package: com.gregorydmitriev.customicons
+Name: Custom Icons
+Version: 1.0
+Architecture: iphoneos-arm
+Description: I just created this theme for me. It changes the iOS 10 stock application icons to the new ones.
+Author: Gregory Dmitriev
+Maintainer: Gregory Dmitriev
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
